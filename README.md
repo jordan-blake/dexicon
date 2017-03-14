@@ -1,2 +1,2 @@
-# gexicon
-The NodeJS Api for NLP-Relational Data
+# dexicon
+The Fast, NodeJS Api for NLP-Relational Data
